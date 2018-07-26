@@ -1,0 +1,136 @@
+<?php session_start(); ?>
+<!DOCTYPE html>
+<html lang="en-US">
+<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0">
+	<title>Hishab Nikas | An Online Buying and Selling Application </title>
+	<style type="text/css">
+		img.wp-smiley,
+		img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 .07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+		}
+		.bgimg {
+		    background-image: url('images/2.jpg');
+		    width: auto;
+		}
+
+		.bullet ul {  
+		    margin: 0.75em 0;  
+		    padding: 0 1em;  
+		    list-style: none;  
+		}  
+
+		.bullet li:before {   
+		    content: "";  
+		    border-color: transparent #008eef;  
+		    border-style: solid;  
+		    border-width: 0.35em 0 0.35em 0.45em;  
+		    display: block;  
+		    height: 0;  
+		    width: 0;  
+		    left: -1em;  
+		    top: 20px;  
+		    position: relative;  
+		}
+		.vc_custom_1524681265209 {
+		    background-color: #ebebeb !important;
+		}
+	</style>
+	<link rel="icon" type="image/ico" href="images/favicon.ico">
+	<link rel='stylesheet' id='cookie-notice-front-css'  href='css/front.min37cb.css' type='text/css' media='all' />
+	<link rel='stylesheet' id='imtst_style-css'  href='css/style37cb.css' type='text/css' media='all' />
+	<link rel='stylesheet' id='imtst_owl_carousel-css'  href='css/owl.carousel37cb.css' type='text/css' media='all' />
+	<link rel='stylesheet' id='imtst_font-awesome-css'  href='css/font-awesome.min37cb.css' type='text/css' media='all' />
+	<link rel='stylesheet' id='bodhi-svgs-attachment-css'  href='css/svgs-attachment37cb.css' type='text/css' media='all' />
+	<link rel='stylesheet' id='theme-css-bundle-css'  href='css/style.css' type='text/css' media='all' />
+	<link rel="stylesheet" type="text/css" href="css/responsive.css">
+	<link rel='stylesheet' id='google-font-css'  href='http://fonts.googleapis.com/css?family=Fira+Sans%3A100%2C100i%2C200%2C200i%2C300%2C300i%2C400%2C400i%2C500%2C500i%2C600%2C600i%2C700%2C700i%2C800%2C800i%2C900%2C900i&amp;ver=4.9.7' type='text/css' media='all' />
+	<link rel='stylesheet' id='theme-styles-css'  href='css/styleae88.css' type='text/css' media='all' />
+	<link rel='stylesheet' id='js_composer_front-css'  href='css/js_composer.min4245.css' type='text/css' media='all' />
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" >
+	<script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+	<script type='text/javascript' src='js/jqueryb8ff.js'></script>
+	<script type='text/javascript' src='js/jquery-migrate.min330a.js'></script>
+	<script type='text/javascript' src='js/front.minfe9e.js'></script>
+	<script type='text/javascript' src='js/owl.carousel.js'></script>
+	<script type='text/javascript' src='js/front_end.js'></script>
+	<script type='text/javascript' src='js/isotope.pkgd.min.js'></script>
+	<script type='text/javascript' src='http://www.youtube.com/iframe_api?ver=4.9.7'></script>
+	<link rel='https://api.w.org/' href='https://centeredgesoftware.com/wp-json/' />
+	<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://centeredgesoftware.com/xmlrpc.php?rsd" />
+	<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://centeredgesoftware.com/wp-includes/wlwmanifest.xml" /> 
+	<link rel='shortlink' href='https://centeredgesoftware.com/?p=243' />
+	<link rel="alternate" type="application/json+oembed" href="https://centeredgesoftware.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcenteredgesoftware.com%2Fsolution%2Fpos%2F" />
+	<link rel="alternate" type="text/xml+oembed" href="https://centeredgesoftware.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcenteredgesoftware.com%2Fsolution%2Fpos%2F&amp;format=xml" />
+	<meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
+	<noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript>	
+
+
+</head>
+<body class="crb_solution-template-default single single-crb_solution postid-243 cookies-not-set wpb-js-composer js-comp-ver-5.5.2 vc_responsive">
+	<div class="wrapper">
+		<header class="header hidden-sm hidden-xs">
+			<div class="shell">
+				<a href="index.php" class="logo">
+					<img src="images/logo.png" alt="" />
+				</a>
+
+				<div class="header__right">
+					<nav class="nav">
+						<ul id="menu-main-menu" class="menu">
+							<li id="menu-item-509" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-509"><a href="http://www.hishabnikas.com/doc/">Documentation</a></li>
+							<li id="menu-item-509" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-509"><a href="support.php">Support</a></li>
+							<li id="menu-item-67" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-67"><a href="contact.php">Contact</a></li>
+						</ul>
+					</nav>				
+				</div><!-- /.header__right -->
+			</div><!-- /.shell -->
+
+			<div class="header__request">
+				<a href="http://www.hishabnikas.com/trial/login" class="section__title" target="_blank">Try-Out Our POS</a>
+			</div><!-- /.header__request -->
+		</header><!-- /.header -->
+
+		<!-- resposive header -->
+		<div class="navbar navbar-inverse">
+		  <div class="container">
+		    <a href="#" class="navbar-brand">MyWebsite</a>
+		    <button class="navbar-toggle" data-toggle="collapse" data-target="#mynavbar">
+		      <span class="icon-bar"></span>
+		      <span class="icon-bar"></span>
+		      <span class="icon-bar"></span>
+		    </button>
+		    <div class="collapse navbar-collapse" id="mynavbar">
+		      <ul class="nav navbar-nav navbar-left">
+		        <li><a href="">Home</a>
+		        </li>
+		        <li><a href="">about</a>
+		        </li>
+		        <li><a href="">contact</a>
+		        </li>
+		        <li><a href="">search</a>
+		        </li>
+		      </ul>
+		    </div>
+		  </div>
+		</div>
+
+		<!-- end resposive header -->
+		<script type="text/javascript">
+		$(function(){ 
+		     var navMain = $(".navbar-collapse");
+
+		     navMain.on("click", "a", null, function () {
+		         navMain.collapse('hide');
+		     });
+		 });</script>

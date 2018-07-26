@@ -1,0 +1,98 @@
+<?php session_start(); ?>
+<!DOCTYPE html>
+<html lang="en-US">
+<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0">
+	<title>Hishab Nikas | An Online Buying and Selling Application </title>
+	<style type="text/css">
+		img.wp-smiley,
+		img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 .07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+		}
+		.bgimg {
+		    background-image: url('images/2.jpg');
+		    width: auto;
+		}
+
+		.bullet ul {  
+		    margin: 0.75em 0;  
+		    padding: 0 1em;  
+		    list-style: none;  
+		}  
+
+		.bullet li:before {   
+		    content: "";  
+		    border-color: transparent #008eef;  
+		    border-style: solid;  
+		    border-width: 0.35em 0 0.35em 0.45em;  
+		    display: block;  
+		    height: 0;  
+		    width: 0;  
+		    left: -1em;  
+		    top: 20px;  
+		    position: relative;  
+		}
+		.vc_custom_1524681265209 {
+		    background-color: #ebebeb !important;
+		}
+	</style>
+	<link rel="icon" type="image/ico" href="images/favicon.ico">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+	<link rel='stylesheet'   href='css/style.css' type='text/css'/>
+	<link rel="stylesheet"   href="css/responsive.css" type="text/css" >
+	<link rel='stylesheet'   href='css/styleae88.css' type='text/css' media='all' />
+	<link rel='stylesheet'   href='css/js_composer.min4245.css' type='text/css' media='all' />
+
+	
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+</head>
+<body>
+	<div class="wrapper">
+		
+
+		<!-- resposive header -->
+		<nav class="navbar navbar-inverse">
+      <div class="container-fluid">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>                        
+          </button>
+          <a class="navbar-brand" href="#">WebSiteName</a>
+        </div>
+        <div class="collapse navbar-collapse" id="myNavbar">
+          <ul class="nav navbar-nav">
+            <li class="active"><a href="#">Home</a></li>
+            <li class="dropdown">
+              <a class="dropdown-toggle" data-toggle="dropdown" href="#">Page 1 <span class="caret"></span></a>
+              <ul class="dropdown-menu">
+                <li><a href="#">Page 1-1</a></li>
+                <li><a href="#">Page 1-2</a></li>
+                <li><a href="#">Page 1-3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Page 2</a></li>
+            <li><a href="#">Page 3</a></li>
+          </ul>
+          <ul class="nav navbar-nav navbar-right">
+            <li><a href="#"><span class="glyphicon glyphicon-user"></span> Sign Up</a></li>
+            <li><a href="#"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+		<!-- end resposive header -->
+
